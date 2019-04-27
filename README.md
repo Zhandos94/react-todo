@@ -1,3 +1,9 @@
+Read me
+1 git init 
+2 git remote add origin //scr
+2 npm install --save
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
